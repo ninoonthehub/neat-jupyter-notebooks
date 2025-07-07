@@ -1,2 +1,3 @@
 # neat-jupyter-notebooks
-This repository contains two notebooks exploring the NEAT tool from the NEST ecosystem. The notebooks contain an analysis on reduced (or few-compartmental) models of the Granule and Purkinje cerebellar cells, respectively. They are a part of my thesis for my bachelor degree in Artificial Intelligence under the University of Pavia, Milano Statale and Milano Bicocca.
+This repository contains two notebooks exploring the NEAT tool from the NEST ecosystem. The notebooks contain an analysis on reduced (or few-compartmental) models of the granule and Purkinje cerebellar cells, respectively. They are a part of my thesis for my bachelor degree in Artificial Intelligence under the University of Pavia, Milano Statale and Milano Bicocca.
+An .swc file for the morphology of the granule cell loaded in the respective notebook is also provided.
