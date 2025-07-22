@@ -1,4 +1,4 @@
 # neat-jupyter-notebooks
 This repository contains two notebooks exploring the NEAT tool from the NEST ecosystem. The notebooks contain an analysis on reduced (or few-compartmental) models of the granule and Purkinje cerebellar cells, respectively. They are a part of my thesis for my bachelor degree in Artificial Intelligence under the University of Pavia, Milano Statale and Milano Bicocca.
 An .swc file for the morphology of the granule, a modified version of the granule cell morphology produced in the laboratory of Brain and Behavioral Sciences of the University of Pavia, loaded in its respective notebook, is also provided.
-Finall, one can also find the .pdf of my thesis itself, and especially in Chapter 4 one can find instructions on how to set up the environment to get the .ipynb running and a comment on the results of the notebooks.
+Finall, one can also find the .pdf of my thesis itself, and especially in Chapter 4 one can find instructions on how to set up the environment to get the .ipynb files running and a comment on the results of the notebooks.
